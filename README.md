@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+<p align = 'center'>
+ <a href="https://github-readme-stats.vercel.app/api?username=davidovich-dn
+&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=davidovich-dn
+&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/romankh3/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact" /></a>
+ </p>
 
 <!--
 **davidovich-dn/davidovich-dn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
