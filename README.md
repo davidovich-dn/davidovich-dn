@@ -17,7 +17,9 @@ Highly motivated Software Test Automation Engineer with 4+ years of experience i
 </a>
 </p>
 <p align = 'center'>
-<a href="https://www.codewars.com/users/davidovich-dn/badges/large"></a>
+<a href="https://www.codewars.com/users/davidovich-dn/badges/large">
+<img src="https://www.codewars.com/users/davidovich-dn/badges/large"/>
+</a>
 </p>
 
 ### Key points
