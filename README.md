@@ -23,7 +23,7 @@ Highly motivated Software Test Automation Engineer with 4+ years of experience i
 <img src="https://www.codewars.com/users/davidovich-dn/badges/large"/>
 </a>
 </p>
-* Improving my algorithms skils on [leetcode](https://leetcode.com/davidovich_dn/)
+* Improving my algorithms skils on [leetcode](https://leetcode.com/davidovich_dn/)<br>
 * Improving my algorithms skils on [hackerrank](https://www.hackerrank.com/profile/davidovich_dn)
 
 ## 🛠 Technical Stack
