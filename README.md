@@ -23,12 +23,17 @@ Highly motivated Software Test Automation Engineer with 4+ years of experience i
 <img src="https://www.codewars.com/users/davidovich-dn/badges/large"/>
 </a>
 </p>
-* Improving my algorithms skiils on [leetcode](https://leetcode.com/davidovich_dn/)
+* Improving my algorithms skils on [leetcode](https://leetcode.com/davidovich_dn/)
+* Improving my algorithms skils on [hackerrank](https://www.hackerrank.com/profile/davidovich_dn)
 
 ## 🛠 Technical Stack
-*   Java language
-*   MySQL, PostgreSQL
-*   GitHub/GitLab/Gerrit
+*   Web: HTML, xPath;
+*   API: REST;
+*   Databases: MySQL, PostgreSQL;
+*   Programming languages: Java (main), JS (a little bit), C# (a little bit);
+*   Test automation: Selenium, Selenide (a little bit), Appium (a little bit);
+*   Version control: GitHub/GitLab/Gerrit;
+*   CI/CD: Jenkins, Team City (a little bit);
 
 ### Contacts
 <p align='center'>
